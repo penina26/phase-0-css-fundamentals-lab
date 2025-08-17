@@ -35,7 +35,7 @@ figcaption {
   display: flex;
   flex-direction: row;
   gap: 20px;
-  justify-content: center;
+  justify-content: space-around;
   background-color: red;
   padding-top: 10px;
 }
